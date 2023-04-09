@@ -1,4 +1,5 @@
 I am PhD candidate at High Performance Computing and Analytics lab, University of Bonn. I am interested in Computer Vision research especially Deep ConvNets and Transformers.
+You can find my blog about various concepts in machine learning [here](https://loki-veera.github.io/weblog/).
 
 ## Education
 * PhD in Computer Science, University of Bonn, Germany. Present
