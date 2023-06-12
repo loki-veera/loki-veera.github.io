@@ -14,5 +14,5 @@ You can find my blog about various concepts in machine learning [here](https://l
 * Intern, The Coca-Cola Company, India, 2015
 
 ## Publications
-* Veeramacheneni, Lokesh, and Matias Valdenegro-Toro. "A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation." arXiv preprint arXiv:2211.06241 (2022) [Paper](https://arxiv.org/pdf/2211.06241.pdf).
+* Veeramacheneni, L., & Valdenegro-Toro, M. (2022). A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation. In NeurIPS 2022 Workshop on Robot Learning: Trustworthy Robotics [Paper](https://arxiv.org/pdf/2211.06241.pdf).
 * Veeramacheneni, Lokesh, et al. "Canonical convolutional neural networks." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022 [Paper](https://arxiv.org/pdf/2206.01509.pdf).
