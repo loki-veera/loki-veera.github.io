@@ -1,5 +1,4 @@
 I am PhD candidate at High Performance Computing and Analytics lab, University of Bonn. I am interested in Computer Vision research especially Deep ConvNets and Transformers.
-You can find my blog about various concepts in machine learning [here](https://loki-veera.github.io/weblog/).
 
 ## Education
 * PhD in Computer Science, University of Bonn, Germany. Present
@@ -16,3 +15,7 @@ You can find my blog about various concepts in machine learning [here](https://l
 ## Publications
 * Veeramacheneni, L., & Valdenegro-Toro, M. (2022). A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation. In NeurIPS 2022 Workshop on Robot Learning: Trustworthy Robotics [Paper](https://arxiv.org/pdf/2211.06241.pdf).
 * Veeramacheneni, Lokesh, et al. "Canonical convolutional neural networks." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022 [Paper](https://arxiv.org/pdf/2206.01509.pdf).
+
+## Teaching Experience
+* Teaching Assistant for [Foundation of Machine Learning](https://github.com/Deep-Learning-with-Jax) course at University of Bonn SS23.
+* Teach C++ and OOP concepts in Foundations course at Hochschule Bonn-Rhein-Sieg  WS19/20, SS20, WS20/21, SS21.
