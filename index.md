@@ -18,5 +18,6 @@ I am a PhD candidate at the High-Performance Computing and Analytics lab at the 
 * Veeramacheneni, Lokesh, et al. "Canonical convolutional neural networks." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022 [Paper](https://arxiv.org/pdf/2206.01509.pdf).
 
 ## Teaching Experience
+* Teaching Assitant for [Foundations of Machine Learning for PIs](https://www.hpc.uni-bonn.de/en/events/foundations-of-machine-learning-for-pis) course at University of Bonn.
 * Teaching Assistant for [Foundation of Machine Learning](https://github.com/Deep-Learning-with-Jax) course at University of Bonn.
 * Teach C++/OOP concepts in [Foundations course](https://github.com/mas-group/foundations_course) at Hochschule Bonn-Rhein-Sieg.
