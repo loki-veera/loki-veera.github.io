@@ -13,7 +13,7 @@ I am a PhD candidate at the High-Performance Computing and Analytics lab at the 
 * Intern, The Coca-Cola Company, India, 2015
 
 ## Publications
-* Veeramacheneni Lokesh, Wolter Moritz, Gall Juergen: “Wavelet Packet Power Spectrum Kullback-Leibler Divergence: A New Metric for Image Synthesis”, 2023; arXiv:2312.15289 [Paper](https://arxiv.org/pdf/2312.15289.pdf).
+* Veeramacheneni, Lokesh, Moritz Wolter, and Juergen Gall. "Wavelet Packet Power Spectrum Kullback-Leibler Divergence: A New Metric for Image Synthesis." arXiv preprint arXiv:2312.15289 (2023) [Paper](https://arxiv.org/pdf/2312.15289.pdf).
 * Veeramacheneni, L., & Valdenegro-Toro, M. (2022). A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation. In NeurIPS 2022 Workshop on Robot Learning: Trustworthy Robotics [Paper](https://arxiv.org/pdf/2211.06241.pdf).
 * Veeramacheneni, Lokesh, et al. "Canonical convolutional neural networks." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022 [Paper](https://arxiv.org/pdf/2206.01509.pdf).
 
