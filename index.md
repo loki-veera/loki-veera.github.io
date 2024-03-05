@@ -1,4 +1,4 @@
-I am a PhD candidate at the High-Performance Computing and Analytics lab at the University of Bonn. I am interested in Computer Vision research, especially Deep ConvNets and Transformers.
+I am a PhD student at the High-Performance Computing and Analytics lab at the University of Bonn. I am interested in Computer Vision research, especially Deep ConvNets and Transformers.
 
 ## Education
 * PhD in Computer Science, University of Bonn, Germany. Present
