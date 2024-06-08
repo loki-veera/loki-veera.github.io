@@ -3,7 +3,8 @@ body{
     width: 50%;
     height: auto;
     font-family: fixedsys;
-    background-image: url('./imgs/hubble_ngc_star_form.png');
+    background-image: url('./imgs/potw2402a-1.jpg');
+    /* background-color: black; */
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
@@ -65,6 +66,9 @@ body{
 .card-text {
     font-size: 1em;
 }
+.card-text-small {
+    font-size: 0.7em;
+}
 .card-text-links {
     font-size: 0.85em;
 }
@@ -77,4 +81,17 @@ body{
     align-items: center;
 }
 
-
+.blink_me {
+    animation: blinker 1s linear infinite;
+    color: yellow;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+}
+.btn {
+    background-color: transparent;
+    border-color: lightseagreen;
+}
