@@ -2,7 +2,7 @@ body{
     margin: auto;
     width: 50%;
     height: auto;
-    font-family: fixedsys;
+    font-family: 'Libre Baskerville';
     background-image: url('./imgs/potw2402a-1.jpg');
     /* background-color: black; */
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body{
     margin-bottom: 20px;
 }
 .mydetails_text {
-    margin-top: 30px;
+    margin-top: 70px;
     align-items: center;
     font-size: 1.3em;
     text-align: justify;
