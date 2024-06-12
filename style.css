@@ -6,6 +6,7 @@ body{
     background-image: url('./imgs/potw2402a-1.jpg');
     /* background-color: black; */
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     align-items: center;
     text-align: center;
